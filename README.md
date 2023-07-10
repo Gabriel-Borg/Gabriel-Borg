@@ -3,7 +3,7 @@
 - 📚 Estudandete de Ciência da Computação - FAM
 - 🤵 Pronomes: Ele / Dele
 
-<img align="right" alt="Gabril-BAT" height="250" width="250" src="https://i.pinimg.com/originals/69/1e/35/691e3541aa4e447a2dffc69fc0f5e52e.gif">
+<img align="right" alt="Gabril-BAT" height="250" width="250" src="https://i.pinimg.com/originals/cf/8c/7b/cf8c7bd052ef2d84078dbdd66e9e15cb.gif">
   
 <div>
   <a href="https://github.com/Gabriel-Borg">
