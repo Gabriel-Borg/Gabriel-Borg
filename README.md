@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Gabriel Borges
-- 💼 Estagiário de Desenvolvimento Corporativo de Softwares
+- 💼 Estagiário em Analise de Dados
 - 📚 Estudandete de Ciência da Computação - FAM
 - 🤵 Pronomes: Ele / Dele
   
